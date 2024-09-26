@@ -2,6 +2,17 @@
 
 Atualmente, atuo no setor de Tecnologia, desempenhando funções especializadas em Suporte Técnico e Help Desk. Minha expertise consiste em fornecer informações e esclarecimentos de maneira eficaz aos usuários finais, contribuindo para uma experiência operacional mais fluida e satisfatória.
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=caioam3232&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?usernamecaioam3232&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=caioam3232&show_icons=true" />
+</picture>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
