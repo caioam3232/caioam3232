@@ -1,5 +1,7 @@
 ## Oiii eu sou a Caio Augusto de Moraes, Estudante  de programação e tecnologia!
 
+Atualmente, atuo no setor de Tecnologia, desempenhando funções especializadas em Suporte Técnico e Help Desk. Minha expertise consiste em fornecer informações e esclarecimentos de maneira eficaz aos usuários finais, contribuindo para uma experiência operacional mais fluida e satisfatória.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
